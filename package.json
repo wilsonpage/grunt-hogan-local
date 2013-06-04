@@ -1,5 +1,5 @@
 {
-  "name": "grunt-readme",
+  "name": "grunt-hogan-local",
   "description": "Creates a README.md file from your code comments",
   "version": "0.1.1",
   "homepage": "https://github.com/wilsonpage/grunt-hogan-local",
